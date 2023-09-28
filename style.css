@@ -117,7 +117,7 @@ pointer-events: auto;
 
 /* カルーセル */
 .carousel {
-  width: 80%;
+  width: 100%;
   margin: 90px auto 0;
   height: 100%;
   overflow: hidden;
